@@ -1,15 +1,12 @@
 # BI-Project-Bigmart-Sales-Prediction
 
 Group Members:
- Tanvi Hule-23
- Manali Kharat-26
- Shivani Mani-30
+Tanvi Hule-23
+Manali Kharat-26
+Shivani Mani-30
 
 Linear Regression Algorithm Used
 Predict the sales of a store.
-
-Dataset Details-
-The data has 8523 rows of 12 variables.
 
 Dataset Description -
 Variable     -                Description
