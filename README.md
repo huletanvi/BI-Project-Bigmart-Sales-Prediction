@@ -12,7 +12,7 @@ Dataset Details-
 The data has 8523 rows of 12 variables.
 
 Dataset Description -
-Variable     -                               Description
+Variable     -                Description
 Item_Identifier-           Unique product ID
 Item_Weight-               Weight of product
 Item_Fat_Content  -        Whether the product is low fat or not
