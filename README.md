@@ -1,7 +1,7 @@
 # BI-Project-Bigmart-Sales-Prediction
 Predict the sales of a store.
 
-Group Members:
+# Group Members:
 
 Tanvi Hule-23
 
@@ -9,11 +9,9 @@ Manali Kharat-26
 
 Shivani Mani-30
 
-Linear Regression algorithm is used.
+# Linear Regression algorithm is used.
 
-Dataset Description -
-
-Variable - Description
+# Dataset Description -
 
 Item_Identifier- Unique product ID
 
