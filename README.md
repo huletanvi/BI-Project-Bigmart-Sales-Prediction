@@ -2,8 +2,11 @@
 Predict the sales of a store.
 
 Group Members:
+
 Tanvi Hule-23
+
 Manali Kharat-26
+
 Shivani Mani-30
 
 Dataset Details- The data has 8523 rows of 12 variables.
